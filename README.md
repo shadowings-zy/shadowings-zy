@@ -4,7 +4,5 @@
 
 I am a full stack developer. 
 
-Major in JavaScript/TypeScript/Node.js/Vue.js/React.js/Express.js/Koa.js...
-
 - Read more about [me](http://www.shadowingszy.top)
 - My blog is [here](https://blog.csdn.net/u011748319)
