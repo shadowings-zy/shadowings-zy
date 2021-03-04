@@ -4,7 +4,7 @@
 
 I am a full stack developer.
 
-Major in front-end, and use Node.js to develop back-end service.
+Major in front-end develop and back-end develop (using Node.js).
 
 - Read more about [me](http://www.shadowingszy.top)
 - My blog is [here](https://blog.csdn.net/u011748319)
